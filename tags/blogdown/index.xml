@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogdown on Nick Holt, Ph.D.</title>
-    <link>/tags/blogdown/</link>
+    <link>https://www.nick-holt.github.io/tags/blogdown/</link>
     <description>Recent content in Blogdown on Nick Holt, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nick-holt.github.io/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building this site using blogdown</title>
-      <link>/2017/11/building-this-site-using-blogdown/</link>
+      <link>https://www.nick-holt.github.io/2017/11/building-this-site-using-blogdown/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/building-this-site-using-blogdown/</guid>
+      <guid>https://www.nick-holt.github.io/2017/11/building-this-site-using-blogdown/</guid>
       <description> Overview I wanted to create a quick entry to describe how I created this site.
 First, I followed great instructions provided in this post: https://tclavelle.github.io/blog/blogdown_github/
 I really only had to run the following code in RStudio:
@@ -25,10 +25,10 @@ library(blogdown) new_site(dir = &#39;blogdown_source&#39;, theme = &#39;kakawai
     
     <item>
       <title>Building this site using blogdown</title>
-      <link>/2017/11/building-this-site-using-blogdown/</link>
+      <link>https://www.nick-holt.github.io/2017/11/building-this-site-using-blogdown/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/building-this-site-using-blogdown/</guid>
+      <guid>https://www.nick-holt.github.io/2017/11/building-this-site-using-blogdown/</guid>
       <description> Overview I wanted to create a quick entry to describe how I created this site.
 First, I followed great instructions provided in this post: https://tclavelle.github.io/blog/blogdown_github/
 I really only had to run the following code in RStudio:
