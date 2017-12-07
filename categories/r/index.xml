@@ -6,10 +6,20 @@
     <description>Recent content in R on Nick Holt, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Function Iterations in R</title>
+      <link>/2017/12/function-iterations-in-r/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/function-iterations-in-r/</guid>
+      <description>The contents of this document were presented as a talk to the Louisville R Users Group Meetup. Some of the content presented below was adapted from R for Data Science by Hadley Wickham, which is an excellent resource. Specifically, Chapter 17 demonstrates the strengths of the purrr package, and I highly recommend the exercises throughout the chapter if you would like practice on this topic.
+Writing Functions in R Programming is problem solving</description>
+    </item>
     
     <item>
       <title>First Post - Creating a Website/Blog Using R</title>

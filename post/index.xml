@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Nick Holt, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Function Iterations in R</title>
+      <link>/2017/12/function-iterations-in-r/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/function-iterations-in-r/</guid>
+      <description>The contents of this document were presented as a talk to the Louisville R Users Group Meetup. Some of the content presented below was adapted from R for Data Science by Hadley Wickham, which is an excellent resource. Specifically, Chapter 17 demonstrates the strengths of the purrr package, and I highly recommend the exercises throughout the chapter if you would like practice on this topic.
+Writing Functions in R Programming is problem solving</description>
+    </item>
+    
+    <item>
+      <title>Christmas Gifts for Data Scientists: Books</title>
+      <link>/2017/12/christmas-gifts-for-data-scientists-books-rmd/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/christmas-gifts-for-data-scientists-books-rmd/</guid>
+      <description>Suggested reads for the holiday break While browsing the /r/datascience subreddit the other day, I ran accross a blog post entitled: Geek Christmas: 10 best books to entertain a Data Scientist. The post contains a list of popular best sellers that loosely intersect with data science.
+I know I&amp;rsquo;m late to the party on this, but I&amp;rsquo;m currently reading Moneyball and enjoying it quite a bit. I plan to check out a few of the other titles listed in the post I linked.</description>
+    </item>
     
     <item>
       <title>First Post - Creating a Website/Blog Using R</title>
