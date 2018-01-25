@@ -1,0 +1,30 @@
+---
+title: 'Christmas Gifts for Data Scientists: Books'
+thumbnailImagePosition: left
+thumbnailImage: http://www.theimaginativeconservative.org/wp-content/uploads/2016/12/Christmas-Gifting.png
+metaAlignment: center
+coverMeta: out
+author: ~
+date: '2017-12-06'
+slug: christmas-gifts-for-data-scientists-books-rmd
+categories: [data science]
+tags: [books]
+---
+
+<div align = "center">
+<img src="http://www.theimaginativeconservative.org/wp-content/uploads/2016/12/Christmas-Gifting.png">
+</div>
+
+# Suggested reads for the holiday break
+
+While browsing the /r/datascience subreddit the other day, I ran accross a blog post entitled: [**Geek Christmas: 10 best books to entertain a Data Scientist**](http://datawanderings.com/2017/12/01/geek-christmas-best-books-data-scientist/). The post contains a list of popular best sellers that loosely intersect with data science. 
+
+I know I'm late to the party on this, but I'm currently reading Moneyball and enjoying it quite a bit. I plan to check out a few of the other titles listed in the post I linked. In addition, I wanted to throw in a few other books related to data science that I have found to be good reads.
+
+1. The Drunkard's Walk: How Randomness Rules our Lives - Leonard Mlodinow [![Alt text](https://images-na.ssl-images-amazon.com/images/I/41AmTHIRGpL._SY344_BO1,204,203,200_.jpg)](https://www.amazon.com/Drunkards-Walk-Randomness-Rules-Lives/dp/0307275175/ref=sr_1_1?ie=UTF8&qid=1512668250&sr=8-1&keywords=drunkards+walk)
+
+
+2. The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan [![Alt text](https://images-na.ssl-images-amazon.com/images/I/51-5vZGntnL._SY344_BO1,204,203,200_.jpg)](https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469/ref=sr_1_1?s=books&ie=UTF8&qid=1512668310&sr=1-1&keywords=demon+haunted+world+by+carl+sagan)
+
+
+3. The Pleasure of Finding Things Out - Richard Feynman [![Alt text](https://images.gr-assets.com/books/1386924005l/10260.jpg)](https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/B00D7RNUGE/ref=sr_1_2?s=books&ie=UTF8&qid=1512668442&sr=1-2&keywords=pleasure+of+finding+things+out)

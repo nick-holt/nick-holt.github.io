@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Nick Holt, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How does seeding for random number generation work?</title>
+      <link>/2018/01/how-does-seeding-for-random-number-generation-work/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/how-does-seeding-for-random-number-generation-work/</guid>
+      <description>IntroductionHere is the problem: I’m building a simulation of a sequence of random events that leads to a specific outcome of interest only rarely. When I say rarely, I mean that the outcome I’m interested in only occurs by chance about 0.1% of the time. The simulation function I’m working with takes about 9 seconds to complete each iteration (likely indicating that I’m not the world’s most efficient coder), and so if the target outcome occurs every 1 in 1000 iterations on average, then I need to wait at least 2.</description>
+    </item>
     
     <item>
       <title>Function Iterations in R</title>
@@ -27,8 +36,8 @@ Writing Functions in R Programming is problem solving</description>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/12/christmas-gifts-for-data-scientists-books-rmd/</guid>
-      <description>Suggested reads for the holiday break While browsing the /r/datascience subreddit the other day, I ran accross a blog post entitled: Geek Christmas: 10 best books to entertain a Data Scientist. The post contains a list of popular best sellers that loosely intersect with data science.
-I know I&amp;rsquo;m late to the party on this, but I&amp;rsquo;m currently reading Moneyball and enjoying it quite a bit. I plan to check out a few of the other titles listed in the post I linked.</description>
+      <description>Suggested reads for the holiday breakWhile browsing the /r/datascience subreddit the other day, I ran accross a blog post entitled: Geek Christmas: 10 best books to entertain a Data Scientist. The post contains a list of popular best sellers that loosely intersect with data science.
+I know I’m late to the party on this, but I’m currently reading Moneyball and enjoying it quite a bit. I plan to check out a few of the other titles listed in the post I linked.</description>
     </item>
     
     <item>
